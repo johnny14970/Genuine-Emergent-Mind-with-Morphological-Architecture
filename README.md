@@ -83,8 +83,8 @@ Se vuoi contribuire o sei interessato alla ricerca su architetture cognitive bio
 Requisiti Hardware (quando rilasciato)
 
 48GB RAM
-GPU primaria: 8GB+ VRAM (LLM + Vision)
-GPU secondaria: 6GB+ VRAM (Image Generation)
+GPU primaria: 12GB+ VRAM (LLM + Vision)
+GPU secondaria: 10GB+ VRAM (Image Generation)
 Opzionale: BME680 per olfatto reale
 
 
@@ -96,6 +96,7 @@ Mountcastle, V. - Cortical Column Organization
 Premack & Woodruff - Theory of Mind
 Friston, K. - Free Energy Principle
 Hebb, D.O. - Hebbian Learning
+teorema di Gauss,per la  teoria dei campi vettoriali
 
 
 Contatti
