@@ -1,0 +1,31 @@
+Anima.cpp                    GemmaDigitalActor.cpp      NeuroEducationManager.cpp
+BellGate.cpp                 GemmaIdentity.cpp          NoveltyDetector.cpp
+BellShiftCore.cpp            Gemma_live.cpp             olfatto_bindings.cpp
+Bio.cpp                      GemmaPersonality.cpp       olfatto.cpp
+Cervello.cpp                 GemmaSenses.cpp            OS_Controller.cpp
+Circadiano.cpp               GemmaVision.cpp            Personality.cpp
+Coscienza.cpp                generate_immage.cpp        PersonalityEditor.cpp
+Emozioni.cpp                 HedonicPeak.cpp            pybind11_bindings.cpp
+ExperienceCore.cpp           HumanMindCore.cpp          SelfHeal.cpp
+GaussianEmotionalFilter.cpp  ImageGenerator.cpp         Senses.cpp
+GemmaAgent.cpp               Memoria.cpp                SomaticMarkers.cpp
+GemmaBME680.cpp              MemoriaPersistente.cpp     SynesthesiaBridge.cpp
+GemmaBME680_fix.cpp          Neuralperception.cpp       TextAnalyzer.cpp
+GemmaBody.cpp                NeuralPerception.cpp       TheoryOfMind.cpp
+GemmaBodyGuide.cpp           NeuralPlasticity.cpp       WebAccess.cpp
+GemmaCore.cpp                Neuroeducationmanager.cpp
+Anima.hpp                    GemmaCore.hpp           NeuroEducationManager.hpp
+BellGate.hpp                 GemmaDigitalActor.hpp   NoveltyDetector.hpp
+BellShiftCore.hpp            GemmaIdentity.hpp       olfatto.hpp
+Bio.hpp                      Gemma_live.hpp          Olfatto.hpp
+Cervello.hpp                 GemmaPersonality.hpp    OS_Controller.hpp
+Circadiano.hpp               GemmaSenses.hpp         PersonalityEditor.hpp
+Coscienza.hpp                GemmaVision.hpp         Personality.hpp
+Emozioni.hpp                 generate_immage.hpp     SelfHeal.hpp
+ExperienceCore.hpp           HedonicPeak.hpp         Senses.hpp
+GaussianEmotionalFilter.hpp  HumanMindCore.hpp       SomaticMarkers.hpp
+GemmaAgent.hpp               ImageGenerator.hpp      SynesthesiaBridge.hpp
+GemmaBME680.hpp              Memoria.hpp             TextAnalyzer.hpp
+GemmaBodyGuide.hpp           MemoriaPersistente.hpp  TheoryOfMind.hpp
+GemmaBody.hpp                NeuralPerception.hpp    WebAccess.hpp
+gemma_config.hpp             NeuralPlasticity.hpp
