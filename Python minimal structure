@@ -1,0 +1,19 @@
+analizza_immagini.py             install_bme680_complete.py
+analyze_vision.py                install_gemma_vision.py
+autoinstall_bme680.py            integrate_final.py
+Autonomous_decision_engine.py    fix_semplice.py           novelty_patch.py
+autonomous_explorer.py           
+AUTONOMOUS_WEB_SEARCH_INSERT.py  gemma_analisi_patch.py    patch_corpo_digitale.py
+autonomy_PATCH.py                gemma_autofix.py          patch_gemma_sd_cpu.
+Gemma_Image_Analyzer.py          integra_real_actions.py
+Quantum_state.py                 Gemma_image_generator.py  prova.py
+clean_imports.py                 Gemma_main.py             SelfHeal_gemma.py
+debug_bme680.py                  GemmaOlfattoHardware.py   scan_all_i2c.py
+debug_gpu.py                     GemmaOlfatto.py           test_actions.py
+debug_import.py                  GemmaRealActions.py       test_bme680.py
+diagnose_cpp_usage.py            GemmaScreenReader.py      test_gemma_flow.py
+esempio_gemma_autonoma.py        GemmaSTT.py               test_gpu_gemma.py
+Fix_bme_position.py              GemmaTTS.py               test_image_analyzer.py
+fix_directory.py                 GemmaVisionAgent.py       test_ricerca.py
+fix_gemma_final.py               gemma_vram_manager.py     test_ricerca_reale.py
+flareQuantumShift.ju
